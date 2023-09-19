@@ -1,6 +1,6 @@
-<h2>Hey, 👋🏽👋🏽</h2>
+<h2>👋🏽</h2>
 
-<b>💻 My Developer Experience 💻</b>
+<b></b>
 
 <p>  
 
