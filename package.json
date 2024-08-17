@@ -1,0 +1,8 @@
+{
+    "author": "nxt.gaming",
+    "type": "module",
+    "version": "52",
+    "scripts": {
+        "inst": "pnpm altv-pkg"
+    }
+}
